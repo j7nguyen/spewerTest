@@ -1,0 +1,29 @@
+{
+  "name": "jnSpewerTest",
+  "version": "0.1.0",
+  "description": "Testing Spewer",
+  "main": "testbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vietjew/newDrizzy.git"
+  },
+  "keywords": [
+    "drake",
+    "twitter",
+    "bot"
+  ],
+  "author": "Joe Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietjew/newDrizzy/issues"
+  },
+  "homepage": "https://github.com/vietjew/newDrizzy",
+  "dependencies": {
+    "express": "^4.13.1",
+    "spewer": "^0.1.2",
+    "twit": "^1.1.20"
+  }
+}
