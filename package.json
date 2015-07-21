@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vietjew/newDrizzy.git"
+    "url": "https://github.com/vietjew/spewerTest.git"
   },
   "keywords": [
     "drake",
@@ -18,9 +18,9 @@
   "author": "Joe Nguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vietjew/newDrizzy/issues"
+    "url": "https://github.com/vietjew/spewerTest"
   },
-  "homepage": "https://github.com/vietjew/newDrizzy",
+  "homepage": "http://github.com/vietjew/spewerTest",
   "dependencies": {
     "express": "^4.13.1",
     "spewer": "^0.1.2",
